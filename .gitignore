@@ -1,0 +1,5 @@
+*.log
+*.nurczynski
+*.iml
+.idea/
+out/
